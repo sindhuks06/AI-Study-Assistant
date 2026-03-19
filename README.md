@@ -106,10 +106,4 @@ AI-Study-Assistant/
 
 
 
----
 
-## 👨‍💻 Author
-
-Built by **Nagaraja**
-
----
